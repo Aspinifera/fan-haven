@@ -27,6 +27,7 @@
   * [An Act of Trust and Love](blues-writing-desk/hetalia/an-act-of-trust-and-love.md)
 * [Teenage Mutant Ninja Turtles](blues-writing-desk/teenage-mutant-ninja-turtles/README.md)
   * [The Rest Is Rust and Stardust](blues-writing-desk/teenage-mutant-ninja-turtles/the-rest-is-rust-and-stardust.md)
+  * [Reality TV for Dummies](blues-writing-desk/teenage-mutant-ninja-turtles/reality-tv-for-dummies.md)
   * [Our Eyes Once Watered](blues-writing-desk/teenage-mutant-ninja-turtles/our-eyes-once-watered.md)
   * [Sundown Kids](blues-writing-desk/teenage-mutant-ninja-turtles/sundown-kids.md)
   * [Laugh, Dear Anemone](blues-writing-desk/teenage-mutant-ninja-turtles/laugh-dear-anemone.md)
